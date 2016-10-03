@@ -17,3 +17,5 @@ ___
 console.icon("beer", "Cheers!");
 ```
 output : 🍺 Cheers!
+
+**goooood. isn't it?"
