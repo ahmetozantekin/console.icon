@@ -18,4 +18,4 @@ console.icon("beer", "Cheers!");
 ```
 output : 🍺 Cheers!
 
-**goooood. isn't it?"
+**goooood. isn't it?**
