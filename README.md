@@ -47,7 +47,12 @@ simple include js file into your html.
 | no-entry      | ⛔            |
 | check         | ✔             |
 | no-entry      | ⛔            |
-| crossmark     | ❌            |
+| questionmark  | ❔             |
+| copyright     | ©              |
+| blacksquare   | ⬛             |
+| whitesquare   | ⬜             |
+| blackcircle   | ⚫            |
+| whitecircle   | ⚪             |
 
 
 ### License
