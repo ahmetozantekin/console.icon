@@ -28,3 +28,16 @@ simple include js file into your html.
 ```html
 <script src="../console.icon.js"></script>
 ```
+
+## İcons
+
+| Name          | Outpu         |
+| ------------- |:-------------:|
+| :D            | 😀            |
+| :)            | 😊            |
+| :*            | 😘            |
+
+### License
+Copyright (c) 2016 Ahmet Ozan Tekin
+
+The MIT License
