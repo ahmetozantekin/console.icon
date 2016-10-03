@@ -26,7 +26,7 @@ output : 🍺 Cheers!
 simple include js file into your html.
 
 ```html
-<script src="../console.icon.js"></script>
+<script src="js/console.icon.js"></script>
 ```
 
 ## İcons
@@ -35,7 +35,7 @@ simple include js file into your html.
 | ------------- |:-------------:|
 | :D            | 😀            |
 | :)            | 😊            |
-| :*            | 😘           *|
+| :*            | 😘            |
 | B)            | 😎            |
 | :o            | 😯            |
 | :p            | 😜            |
@@ -51,8 +51,23 @@ simple include js file into your html.
 | copyright     | ©              |
 | blacksquare   | ⬛             |
 | whitesquare   | ⬜             |
-| blackcircle   | ⚫            |
+| blackcircle   | ⚫             |
 | whitecircle   | ⚪             |
+| bomb          | 💣            |
+| bulb          | 💡             |
+| envelope      | ✉             |
+| pushpin       | 📌             |
+| key           | 🔑             |
+| lock          | 🔒             |
+| cloud         | ☁              |
+| droplet       | 💧              |
+| snowflake     | ❄              |
+| highvoltage   | ⚡             |
+| construction  | 🚧              |
+| videogame     | 🎮              |
+| beer          | 🍺              |
+| shrug         | 🤷              |
+| birthday      | 🎂              |
 
 
 ### License
