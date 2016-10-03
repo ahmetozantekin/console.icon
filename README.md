@@ -37,11 +37,17 @@ simple include js file into your html.
 | :)            | 😊            |
 | :*            | 😘           *|
 | B)            | 😎            |
-| :|            | 😐            |
 | :o            | 😯            |
 | :p            | 😜            |
 | :/            | 😕            |
 | :(            | 😞            |
+| :@            | 😡            |
+| poop          | 💩            |
+| <3            | ❤️            |
+| no-entry      | ⛔            |
+| check         | ✔             |
+| no-entry      | ⛔            |
+| crossmark     | ❌            |
 
 
 ### License
