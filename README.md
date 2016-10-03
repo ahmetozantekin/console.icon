@@ -35,7 +35,14 @@ simple include js file into your html.
 | ------------- |:-------------:|
 | :D            | 😀            |
 | :)            | 😊            |
-| :*            | 😘            |
+| :*            | 😘           *|
+| B)            | 😎            |
+| :|            | 😐            |
+| :o            | 😯            |
+| :p            | 😜            |
+| :/            | 😕            |
+| :(            | 😞            |
+
 
 ### License
 Copyright (c) 2016 Ahmet Ozan Tekin
