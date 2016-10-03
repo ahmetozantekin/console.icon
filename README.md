@@ -10,7 +10,7 @@
 console.icon("beer");
 ```
 output : 🍺;
-___
+
 ##### more simple, icon and logging
 ```javascript
 // the second parameter as your message
