@@ -2,7 +2,6 @@
 *
 *   Ahmet Ozan Tekin | 03.10.2016
 *   ahmetozantekin@gmail.com
-*   tw.co/ahmetozantekin
 *
 */
 
