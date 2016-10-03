@@ -19,3 +19,12 @@ console.icon("beer", "Cheers!");
 output : 🍺 Cheers!
 
 **goooood. isn't it?**
+
+
+## Usage
+
+simple include js file into your html.
+
+```html
+<script src="../console.icon.js"></script>
+```
