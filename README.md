@@ -31,7 +31,7 @@ simple include js file into your html.
 
 ## İcons
 
-| Name          | Outpu         |
+| Name          | Output        |
 | ------------- |:-------------:|
 | :D            | 😀            |
 | :)            | 😊            |
