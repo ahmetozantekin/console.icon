@@ -8,4 +8,4 @@
 
 Yeni emojiler için [şu](https://github.com/github/gemoji) tırıvırı kullanılabilir sanırım kanka.
 
-<style>.label{display:inline-block;padding:5px 10px;border-radius:5px;color:white}</style>
+<style>.label{display:inline-block;padding:5px 10px;border-radius:5px;color:white}</style> 
