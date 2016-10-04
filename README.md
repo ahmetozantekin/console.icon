@@ -33,7 +33,7 @@ Simple include js file into your html.
 
 ## İcons
 
-Supported every emojis anymore. [:*](https://github.com/erayarslan).
+Supported every emojis anymore. [:*](https://github.com/erayarslan)
 ######[List of emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### License
