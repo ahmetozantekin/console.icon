@@ -1,0 +1,28 @@
+{
+  "name": "console.icon",
+  "version": "1.0.0",
+  "description": "use icons your console logging messages",
+  "main": "console.icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetozantekin/console.icon.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "icon",
+    "emoji"
+  ],
+  "author": "Ahmet Ozan Tekin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetozantekin/console.icon/issues"
+  },
+  "homepage": "https://github.com/ahmetozantekin/console.icon#readme",
+  "devDependencies": {
+    "gemoji": "^2.0.1"
+  }
+}
