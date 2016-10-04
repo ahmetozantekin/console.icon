@@ -28,7 +28,7 @@ output : 🍺 Cheers!
 Simple include js file into your html.
 
 ```html
-<script src="js/console.icon.js"></script>
+<script src="../src/app.js"></script>
 ```
 
 ## İcons
