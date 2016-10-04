@@ -2,7 +2,7 @@
 
 `console.icon`, the easiest way use simple icons in your browser console. Run in vanilla.js and supported by every modern browsers.
 
- You can see a simple demo [here](http://ahmetozantekin.github.io/consoleicon.html).
+ You can see a simple demo [here](http://codepen.io/ahmetozantekin/pen/qaVKkV).
  
 ## Preview
 
