@@ -34,7 +34,7 @@ Simple include js file into your html.
 ## İcons
 
 Supported every emojis anymore. [:*](https://github.com/erayarslan).
--[List of emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+######[List of emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### License
 Copyright (c) 2016 Ahmet Ozan Tekin
