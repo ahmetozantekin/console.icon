@@ -11,7 +11,7 @@
 // use your iconname of first parameter.
 console.icon("beer");
 ```
-output : 🍺;
+output : 🍺
 
 ##### more simple, icon and logging
 ```javascript
