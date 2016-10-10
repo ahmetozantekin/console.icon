@@ -5,6 +5,14 @@
 
  You can see a simple demo [here](http://codepen.io/ahmetozantekin/pen/qaVKkV?editors=1112).
  
+## Build
+
+```sh
+npm install -g browserify
+npm build 
+// output: dist/console.icon.js
+```
+ 
 ## Preview
 
 ##### simple, only icon.
@@ -29,7 +37,7 @@ output : 🍺 Cheers!
 Simple include js file into your html.
 
 ```html
-<script src="../src/app.js"></script>
+<script src="dist/console.icon.js"></script>
 ```
 
 ## İcons

@@ -1,10 +1,10 @@
 {
   "name": "console.icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use icons your console logging messages",
   "main": "console.icon.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify console.icon.js -o dist/console.icon.js"
   },
   "repository": {
     "type": "git",
