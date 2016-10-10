@@ -8,6 +8,7 @@
 ## Build
 
 ```sh
+npm install
 npm install -g browserify
 npm run build 
 // output: dist/console.icon.js
