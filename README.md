@@ -9,7 +9,7 @@
 
 ```sh
 npm install -g browserify
-npm build 
+npm run build 
 // output: dist/console.icon.js
 ```
  
