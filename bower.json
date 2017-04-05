@@ -1,0 +1,23 @@
+{
+  "name": "console-icon",
+  "description": "use icons your console logging messages",
+  "main": "console.icon.js",
+  "authors": [
+    "Ahmet Ozan Tekin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "console",
+    "log",
+    "icon",
+    "emoji"
+  ],
+  "homepage": "https://github.com/ahmetozantekin/console.icon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
