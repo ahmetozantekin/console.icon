@@ -8,6 +8,12 @@
 ## Build
 
 ```sh
+$ bower install console-icon
+```
+
+or
+
+```sh
 npm install
 npm install -g browserify
 npm run build 
