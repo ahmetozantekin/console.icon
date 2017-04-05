@@ -2,7 +2,7 @@
  * @author Ahmet Ozan Tekin
  */
 
-(function thing() {
+(function thing() { 
   var gemoji = require('gemoji');
   // window.console or the normal console.
   var con = console;
