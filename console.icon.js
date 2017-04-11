@@ -2,19 +2,33 @@
  * @author Ahmet Ozan Tekin
  */
 
-(function thing() { 
-  var gemoji = require('gemoji');
-  // window.console or the normal console.
-  var con = console;
-  if (typeof (window) !== 'undefined') {
-    con = window.console;
-  }
+(function () { 
+ var gemoji = require('gemoji'),
+     // window.console or the normal console.
+     con = console;
+
+  if (typeof (window) !== 'undefined') con = window.console;
+
   con.icon = function () {
-    var args = Array.prototype.slice.call(arguments);
-    if (!!args[1]) {
-      console.log(gemoji.name[args[0]].emoji + ' ' + args[1]);
+    var args = Array.prototype.slice.call(arguments),
+        argStart = 0,
+        printOutAsIcon = '';
+
+    //do in case of one argument
+    if (!!args[argStart] && args.length === 1) {
+      printOutAsIcon = gemoji.name[args[0]].emoji;
     } else {
-      console.log(gemoji.name[args[0]].emoji);
-    }
+      if (args.length >= (argStart + 1)) {
+        //in case of multiple arguments
+        for (var iconIndex = 0, len = args.length; iconIndex < len; iconIndex++) {
+          //if gemoji has the emoji char, add it into our output string
+          if (!!gemoji.name[args[iconIndex]]) {
+            printOutAsIcon += '' + gemoji.name[args[iconIndex]].emoji + ' ';
+          }
+        }
+      }
+   }
+
+   console.log(printOutAsIcon);
   }
 })();
