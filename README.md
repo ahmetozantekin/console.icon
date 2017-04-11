@@ -49,7 +49,11 @@ Simple include js file into your html.
 
 ## Icons
 
-Supported every emojis anymore. [:*](https://github.com/erayarslan)
+Supported every emojis anymore. [Eray Arslan](https://github.com/erayarslan)
+Supported multiple arguments anymore. [Barış Güler](https://github.com/hwclass)
+
+
+
 ###### [List of emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### License
