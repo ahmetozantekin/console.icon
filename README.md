@@ -36,7 +36,7 @@ console.icon("beer", "Cheers!");
 ```
 output : 🍺 Cheers!
 
-**goooood. isn't it?**
+**goooood. Isn't it?**
 
 
 ## Usage
@@ -47,10 +47,10 @@ Simple include js file into your html.
 <script src="dist/console.icon.js"></script>
 ```
 
-## İcons
+## Icons
 
 Supported every emojis anymore. [:*](https://github.com/erayarslan)
-######[List of emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+###### [List of emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### License
 Copyright (c) 2016 Ahmet Ozan Tekin
