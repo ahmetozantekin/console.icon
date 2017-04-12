@@ -54,8 +54,8 @@ Simple include js file into your html.
 
 ## Contributers
 
-Supported every emojis anymore. [Eray Arslan](https://github.com/erayarslan)
-Supported multiple arguments anymore. [Barış Güler](https://github.com/hwclass)
+- Supported every emojis anymore. ([Eray Arslan](https://github.com/erayarslan))
+- Supported multiple arguments anymore. ([Barış Güler](https://github.com/hwclass))
 
 
 
