@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ahmetozantekin/console.icon#readme",
   "devDependencies": {
-    "gemoji": "^2.0.1"
+    "gemoji": "^2.0.1",
+    "tape": "^4.6.3"
   }
 }
